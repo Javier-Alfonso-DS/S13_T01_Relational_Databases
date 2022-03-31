@@ -6,8 +6,9 @@ Description
 Learn how to create a relational model and entity-relationship diagram.
 
 Level 1
+
 - Exercise 1
-- 
+
 Create an example relational database using a text document or by hand. Design it to contain the following tables, and establish the relationships you consider necessary between them:
 
 - Shopping table (transactions)
